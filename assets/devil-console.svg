@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 460">
+  <rect x="4" y="4" width="592" height="452" rx="70" fill="#111" stroke="#fff" stroke-width="8"/>
+  <rect x="135" y="50" width="330" height="270" rx="18" fill="#1728ff"/>
+  <text x="190" y="116" font-family="sans-serif" font-size="32" fill="#111">25000円</text>
+  <text x="190" y="160" font-family="sans-serif" font-size="32" fill="#111">50g</text>
+  <circle cx="74" cy="112" r="34" fill="#fff"/><path d="M66 89v43h28" fill="none" stroke="#111" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="526" cy="112" r="34" fill="#fff"/><text x="510" y="127" font-family="sans-serif" font-weight="900" font-size="45">Z</text>
+  <circle cx="180" cy="371" r="34" fill="#f00"/><circle cx="245" cy="340" r="34" fill="#f00"/><circle cx="310" cy="371" r="34" fill="#f00"/>
+  <text x="169" y="384" font-family="sans-serif" font-size="32">C</text><text x="234" y="353" font-family="sans-serif" font-size="32">A</text><text x="299" y="384" font-family="sans-serif" font-size="32">B</text>
+  <circle cx="430" cy="350" r="30" fill="#fff"/><circle cx="485" cy="322" r="30" fill="#fff"/><circle cx="540" cy="350" r="30" fill="#fff"/><circle cx="485" cy="378" r="30" fill="#fff"/>
+  <text x="420" y="361" font-family="sans-serif" font-size="29">G</text><text x="475" y="333" font-family="sans-serif" font-size="29">E</text><text x="530" y="361" font-family="sans-serif" font-size="29">F</text><text x="475" y="389" font-family="sans-serif" font-size="29">H</text>
+</svg>
